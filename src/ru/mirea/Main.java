@@ -25,5 +25,7 @@ public class Main {
         b = a;
         a= (int) b;
 
+        System.out.println(a);
+
     }
 }
